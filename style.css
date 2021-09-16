@@ -34,9 +34,16 @@ nav{
 }
 .container2{
     padding: 10px 0px ;
+    position: relative;
+    text-align: center;
+    color: white;
 }
+
 .container3{
     padding: 10px 0px ;
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
 .top-right{
